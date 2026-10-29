@@ -1,0 +1,601 @@
+session_id,outcome_id,department,outcome_type,outcome_achieved,human_escalation_required,minutes_saved_estimate,hourly_loaded_wage_usd
+sess_0001,out_0001,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0002,out_0002,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0003,out_0003,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0004,out_0004,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0005,out_0005,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0006,out_0006,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0007,out_0007,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0008,out_0008,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0009,out_0009,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0010,out_0010,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0011,out_0011,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0012,out_0012,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0013,out_0013,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0014,out_0014,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0015,out_0015,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0016,out_0016,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0017,out_0017,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0018,out_0018,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0019,out_0019,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0020,out_0020,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0021,out_0021,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0022,out_0022,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0023,out_0023,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0024,out_0024,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0025,out_0025,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0026,out_0026,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0027,out_0027,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0028,out_0028,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0029,out_0029,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0030,out_0030,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0031,out_0031,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0032,out_0032,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0033,out_0033,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0034,out_0034,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0035,out_0035,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0036,out_0036,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0037,out_0037,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0038,out_0038,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0039,out_0039,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0040,out_0040,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0041,out_0041,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0042,out_0042,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0043,out_0043,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0044,out_0044,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0045,out_0045,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0046,out_0046,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0047,out_0047,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0048,out_0048,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0049,out_0049,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0050,out_0050,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0051,out_0051,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0052,out_0052,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0053,out_0053,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0054,out_0054,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0055,out_0055,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0056,out_0056,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0057,out_0057,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0058,out_0058,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0059,out_0059,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0060,out_0060,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0061,out_0061,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0062,out_0062,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0063,out_0063,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0064,out_0064,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0065,out_0065,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0066,out_0066,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0067,out_0067,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0068,out_0068,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0069,out_0069,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0070,out_0070,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0071,out_0071,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0072,out_0072,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0073,out_0073,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0074,out_0074,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0075,out_0075,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0076,out_0076,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0077,out_0077,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0078,out_0078,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0079,out_0079,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0080,out_0080,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0081,out_0081,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0082,out_0082,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0083,out_0083,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0084,out_0084,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0085,out_0085,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0086,out_0086,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0087,out_0087,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0088,out_0088,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0089,out_0089,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0090,out_0090,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0091,out_0091,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0092,out_0092,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0093,out_0093,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0094,out_0094,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0095,out_0095,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0096,out_0096,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0097,out_0097,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0098,out_0098,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0099,out_0099,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0100,out_0100,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0101,out_0101,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0102,out_0102,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0103,out_0103,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0104,out_0104,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0105,out_0105,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0106,out_0106,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0107,out_0107,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0108,out_0108,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0109,out_0109,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0110,out_0110,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0111,out_0111,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0112,out_0112,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0113,out_0113,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0114,out_0114,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0115,out_0115,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0116,out_0116,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0117,out_0117,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0118,out_0118,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0119,out_0119,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0120,out_0120,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0121,out_0121,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0122,out_0122,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0123,out_0123,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0124,out_0124,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0125,out_0125,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0126,out_0126,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0127,out_0127,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0128,out_0128,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0129,out_0129,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0130,out_0130,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0131,out_0131,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0132,out_0132,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0133,out_0133,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0134,out_0134,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0135,out_0135,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0136,out_0136,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0137,out_0137,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0138,out_0138,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0139,out_0139,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0140,out_0140,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0141,out_0141,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0142,out_0142,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0143,out_0143,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0144,out_0144,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0145,out_0145,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0146,out_0146,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0147,out_0147,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0148,out_0148,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0149,out_0149,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0150,out_0150,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0151,out_0151,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0152,out_0152,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0153,out_0153,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0154,out_0154,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0155,out_0155,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0156,out_0156,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0157,out_0157,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0158,out_0158,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0159,out_0159,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0160,out_0160,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0161,out_0161,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0162,out_0162,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0163,out_0163,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0164,out_0164,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0165,out_0165,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0166,out_0166,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0167,out_0167,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0168,out_0168,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0169,out_0169,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0170,out_0170,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0171,out_0171,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0172,out_0172,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0173,out_0173,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0174,out_0174,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0175,out_0175,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0176,out_0176,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0177,out_0177,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0178,out_0178,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0179,out_0179,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0180,out_0180,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0181,out_0181,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0182,out_0182,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0183,out_0183,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0184,out_0184,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0185,out_0185,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0186,out_0186,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0187,out_0187,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0188,out_0188,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0189,out_0189,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0190,out_0190,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0191,out_0191,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0192,out_0192,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0193,out_0193,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0194,out_0194,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0195,out_0195,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0196,out_0196,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0197,out_0197,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0198,out_0198,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0199,out_0199,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0200,out_0200,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0201,out_0201,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0202,out_0202,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0203,out_0203,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0204,out_0204,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0205,out_0205,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0206,out_0206,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0207,out_0207,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0208,out_0208,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0209,out_0209,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0210,out_0210,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0211,out_0211,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0212,out_0212,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0213,out_0213,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0214,out_0214,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0215,out_0215,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0216,out_0216,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0217,out_0217,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0218,out_0218,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0219,out_0219,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0220,out_0220,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0221,out_0221,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0222,out_0222,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0223,out_0223,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0224,out_0224,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0225,out_0225,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0226,out_0226,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0227,out_0227,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0228,out_0228,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0229,out_0229,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0230,out_0230,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0231,out_0231,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0232,out_0232,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0233,out_0233,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0234,out_0234,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0235,out_0235,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0236,out_0236,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0237,out_0237,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0238,out_0238,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0239,out_0239,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0240,out_0240,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0241,out_0241,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0242,out_0242,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0243,out_0243,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0244,out_0244,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0245,out_0245,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0246,out_0246,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0247,out_0247,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0248,out_0248,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0249,out_0249,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0250,out_0250,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0251,out_0251,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0252,out_0252,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0253,out_0253,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0254,out_0254,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0255,out_0255,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0256,out_0256,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0257,out_0257,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0258,out_0258,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0259,out_0259,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0260,out_0260,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0261,out_0261,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0262,out_0262,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0263,out_0263,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0264,out_0264,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0265,out_0265,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0266,out_0266,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0267,out_0267,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0268,out_0268,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0269,out_0269,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0270,out_0270,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0271,out_0271,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0272,out_0272,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0273,out_0273,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0274,out_0274,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0275,out_0275,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0276,out_0276,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0277,out_0277,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0278,out_0278,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0279,out_0279,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0280,out_0280,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0281,out_0281,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0282,out_0282,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0283,out_0283,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0284,out_0284,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0285,out_0285,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0286,out_0286,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0287,out_0287,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0288,out_0288,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0289,out_0289,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0290,out_0290,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0291,out_0291,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0292,out_0292,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0293,out_0293,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0294,out_0294,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0295,out_0295,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0296,out_0296,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0297,out_0297,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0298,out_0298,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0299,out_0299,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0300,out_0300,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0301,out_0301,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0302,out_0302,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0303,out_0303,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0304,out_0304,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0305,out_0305,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0306,out_0306,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0307,out_0307,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0308,out_0308,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0309,out_0309,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0310,out_0310,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0311,out_0311,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0312,out_0312,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0313,out_0313,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0314,out_0314,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0315,out_0315,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0316,out_0316,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0317,out_0317,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0318,out_0318,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0319,out_0319,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0320,out_0320,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0321,out_0321,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0322,out_0322,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0323,out_0323,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0324,out_0324,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0325,out_0325,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0326,out_0326,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0327,out_0327,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0328,out_0328,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0329,out_0329,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0330,out_0330,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0331,out_0331,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0332,out_0332,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0333,out_0333,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0334,out_0334,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0335,out_0335,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0336,out_0336,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0337,out_0337,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0338,out_0338,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0339,out_0339,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0340,out_0340,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0341,out_0341,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0342,out_0342,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0343,out_0343,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0344,out_0344,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0345,out_0345,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0346,out_0346,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0347,out_0347,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0348,out_0348,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0349,out_0349,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0350,out_0350,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0351,out_0351,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0352,out_0352,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0353,out_0353,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0354,out_0354,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0355,out_0355,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0356,out_0356,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0357,out_0357,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0358,out_0358,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0359,out_0359,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0360,out_0360,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0361,out_0361,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0362,out_0362,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0363,out_0363,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0364,out_0364,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0365,out_0365,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0366,out_0366,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0367,out_0367,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0368,out_0368,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0369,out_0369,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0370,out_0370,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0371,out_0371,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0372,out_0372,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0373,out_0373,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0374,out_0374,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0375,out_0375,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0376,out_0376,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0377,out_0377,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0378,out_0378,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0379,out_0379,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0380,out_0380,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0381,out_0381,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0382,out_0382,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0383,out_0383,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0384,out_0384,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0385,out_0385,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0386,out_0386,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0387,out_0387,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0388,out_0388,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0389,out_0389,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0390,out_0390,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0391,out_0391,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0392,out_0392,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0393,out_0393,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0394,out_0394,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0395,out_0395,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0396,out_0396,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0397,out_0397,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0398,out_0398,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0399,out_0399,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0400,out_0400,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0401,out_0401,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0402,out_0402,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0403,out_0403,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0404,out_0404,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0405,out_0405,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0406,out_0406,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0407,out_0407,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0408,out_0408,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0409,out_0409,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0410,out_0410,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0411,out_0411,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0412,out_0412,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0413,out_0413,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0414,out_0414,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0415,out_0415,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0416,out_0416,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0417,out_0417,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0418,out_0418,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0419,out_0419,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0420,out_0420,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0421,out_0421,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0422,out_0422,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0423,out_0423,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0424,out_0424,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0425,out_0425,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0426,out_0426,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0427,out_0427,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0428,out_0428,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0429,out_0429,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0430,out_0430,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0431,out_0431,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0432,out_0432,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0433,out_0433,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0434,out_0434,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0435,out_0435,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0436,out_0436,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0437,out_0437,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0438,out_0438,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0439,out_0439,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0440,out_0440,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0441,out_0441,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0442,out_0442,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0443,out_0443,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0444,out_0444,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0445,out_0445,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0446,out_0446,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0447,out_0447,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0448,out_0448,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0449,out_0449,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0450,out_0450,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0451,out_0451,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0452,out_0452,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0453,out_0453,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0454,out_0454,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0455,out_0455,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0456,out_0456,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0457,out_0457,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0458,out_0458,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0459,out_0459,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0460,out_0460,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0461,out_0461,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0462,out_0462,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0463,out_0463,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0464,out_0464,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0465,out_0465,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0466,out_0466,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0467,out_0467,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0468,out_0468,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0469,out_0469,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0470,out_0470,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0471,out_0471,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0472,out_0472,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0473,out_0473,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0474,out_0474,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0475,out_0475,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0476,out_0476,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0477,out_0477,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0478,out_0478,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0479,out_0479,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0480,out_0480,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0481,out_0481,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0482,out_0482,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0483,out_0483,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0484,out_0484,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0485,out_0485,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0486,out_0486,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0487,out_0487,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0488,out_0488,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0489,out_0489,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0490,out_0490,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0491,out_0491,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0492,out_0492,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0493,out_0493,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0494,out_0494,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0495,out_0495,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0496,out_0496,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0497,out_0497,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0498,out_0498,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0499,out_0499,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0500,out_0500,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0501,out_0501,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0502,out_0502,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0503,out_0503,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0504,out_0504,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0505,out_0505,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0506,out_0506,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0507,out_0507,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0508,out_0508,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0509,out_0509,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0510,out_0510,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0511,out_0511,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0512,out_0512,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0513,out_0513,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0514,out_0514,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0515,out_0515,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0516,out_0516,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0517,out_0517,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0518,out_0518,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0519,out_0519,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0520,out_0520,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0521,out_0521,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0522,out_0522,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0523,out_0523,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0524,out_0524,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0525,out_0525,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0526,out_0526,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0527,out_0527,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0528,out_0528,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0529,out_0529,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0530,out_0530,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0531,out_0531,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0532,out_0532,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0533,out_0533,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0534,out_0534,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0535,out_0535,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0536,out_0536,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0537,out_0537,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0538,out_0538,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0539,out_0539,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0540,out_0540,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0541,out_0541,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0542,out_0542,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0543,out_0543,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0544,out_0544,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0545,out_0545,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0546,out_0546,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0547,out_0547,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0548,out_0548,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0549,out_0549,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0550,out_0550,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0551,out_0551,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0552,out_0552,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0553,out_0553,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0554,out_0554,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0555,out_0555,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0556,out_0556,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0557,out_0557,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0558,out_0558,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0559,out_0559,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0560,out_0560,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0561,out_0561,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0562,out_0562,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0563,out_0563,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0564,out_0564,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0565,out_0565,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0566,out_0566,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0567,out_0567,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0568,out_0568,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0569,out_0569,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0570,out_0570,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0571,out_0571,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0572,out_0572,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0573,out_0573,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0574,out_0574,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0575,out_0575,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0576,out_0576,Customer Support,ticket_resolved,False,True,0.0,35.0
+sess_0577,out_0577,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0578,out_0578,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0579,out_0579,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0580,out_0580,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0581,out_0581,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0582,out_0582,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0583,out_0583,Legal & Compliance,contract_reviewed,False,True,0.0,120.0
+sess_0584,out_0584,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0585,out_0585,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0586,out_0586,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0587,out_0587,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0588,out_0588,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0589,out_0589,Software Engineering,pr_merged,False,True,0.0,85.0
+sess_0590,out_0590,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0591,out_0591,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0592,out_0592,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0593,out_0593,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0594,out_0594,Growth & Sales,lead_qualified,True,False,90.0,55.0
+sess_0595,out_0595,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0596,out_0596,Customer Support,ticket_resolved,True,False,15.0,35.0
+sess_0597,out_0597,Software Engineering,pr_merged,True,False,120.0,85.0
+sess_0598,out_0598,Growth & Sales,lead_qualified,False,True,0.0,55.0
+sess_0599,out_0599,Legal & Compliance,contract_reviewed,True,False,120.0,120.0
+sess_0600,out_0600,Customer Support,ticket_resolved,False,True,0.0,35.0

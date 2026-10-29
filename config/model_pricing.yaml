@@ -1,0 +1,30 @@
+models:
+  gpt-4o:
+    provider: openai
+    tier: frontier
+    input_cost_per_1m: 2.50
+    cached_input_cost_per_1m: 1.25
+    output_cost_per_1m: 10.00
+  claude-3-5-sonnet:
+    provider: anthropic
+    tier: frontier
+    input_cost_per_1m: 3.00
+    cached_input_cost_per_1m: 0.30
+    output_cost_per_1m: 15.00
+  claude-3-5-haiku:
+    provider: anthropic
+    tier: fast_compact
+    input_cost_per_1m: 0.80
+    cached_input_cost_per_1m: 0.08
+    output_cost_per_1m: 4.00
+  gemini-2.5-flash:
+    provider: google
+    tier: fast_compact
+    input_cost_per_1m: 0.15
+    cached_input_cost_per_1m: 0.0375
+    output_cost_per_1m: 0.60
+department_hourly_rates_usd:
+  Customer Support: 35.0
+  Software Engineering: 85.0
+  Growth & Sales: 55.0
+  Legal & Compliance: 120.0
